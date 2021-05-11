@@ -1,14 +1,13 @@
-# Basic-Computer-Science-Requirements
+# General Cyber Developer (GenCyber) Framework Requirements
 
-## Foundations
-
-### Discrete Structures
+## Discrete Structures
 1. Sets and Relations
+    * Set, Union
 2. Basics of Counting
 3. Basic Logic
 4. Proof Techniques
 
-#### Computer Internals and Architecture
+## Computer Internals and Architecture
 1. Data Representation
 2. Digital Logic
 3. Computer Memory and Architecture
@@ -18,7 +17,7 @@
 7. Memory Architecture
 8. Wireless and Mobile Technologies
 
-### Operating Systems
+## Operating Systems
 1. Boot Process
 2. Windows
 3. PowerShell
@@ -48,10 +47,13 @@
 13. Information and Data Security
 14. Network Security
 
-### Programming fundamentals
+## Programming fundamentals
 1. Development Life Cycle
 2. Programming concepts
 3. Programming Methodologies
 4. Language Generations
 
-## Basic Programming
+## Intro to programming
+1. History of programming and computers
+2. Programming language types
+3. 
