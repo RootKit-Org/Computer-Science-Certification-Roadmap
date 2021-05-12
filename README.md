@@ -1,71 +1,5 @@
 # General Cyber Developer (GenCyber) Framework Requirements
 
-## Discrete Structures
-1. Sets and Relations
-    * Univeral Set
-    * Subset
-    * Proper Subset
-    * Union
-    * Intersection
-    * Absolute Complement
-    * Relative Complement
-    * Symmetric Difference
-    * Performing Set Math
-    * Cartesian Product
-    * Power Set
-    * Relations
-    * Reflexive
-    * Irreflexive
-    * Symmetic
-    * Asymmetric
-    * Transitive
-2. Sum Rule
-3. Product Rule
-4. Pigeonhole Principle
-5. Basic Logic
-    * Proposition
-    * Compound Proposition
-    * Conjunction
-    * Disjunction
-    * Negation
-    * Symmetric Difference
-    * Conditional
-    * Bi-Conditional
-    * Truth Tables
-    * Tautologies
-    * Contradiction
-    * Contrapositive
-    * Converse
-    * Inverse
-    * Logical Equivalency
-    * Validity of Propositional Logic
-    * Syllogism
-    * Rules of Inference
-    * Modus Pones
-    * Modus Tollens
-    * Generalization
-    * Specialization
-    * Elimination
-    * Transitivity
-    * Division into Cases
-    * Fallacy
-    * Converse Error
-    * Inverse Error
-6. Proof Techniques
-    * Direct Proof
-    * Proof by Contradiction
-7. Logical Fallacies and Biases
-    * Biases in computer science
-
-## Computer Internals and Architecture
-1. Data Representation
-2. Digital Logic
-3. Computer Memory and Architecture
-4. Squeezing Performance
-5. Multiprocessing
-6. Input/Output (I/O) Architecture
-7. Memory Architecture
-8. Wireless and Mobile Technologies
 
 ## Operating Systems
 1. Boot Process
@@ -106,4 +40,4 @@
 ## Intro to programming
 1. History of programming and computers
 2. Programming language types
-3. 
+3.
