@@ -44,6 +44,9 @@
   * Speculative Execution
   * RISC
   * CISC
+  * ARM
+  * x86
+  * x64
   * Little Endian
   * Big Endian
 
