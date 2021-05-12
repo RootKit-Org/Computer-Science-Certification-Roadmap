@@ -131,6 +131,52 @@
     * Rename-Item
     * Remove-Item
 4. UNIX
+    * Kernel architecture
+    * Unix Shells
+    * Shell command structure
+    * Manual pages (Man pages)
+    * Bash commands
+      * clear
+      * pwd
+      * uname
+      * date
+      * tree
+      * exit
+      * ls
+      * less
+      * more
+      * head
+      * cat
+      * cd
+      * echo
+      * touch
+      * mkdir
+      * cp
+      * mv
+      * ln
+      * grep
+      * find
+      * which
+      * file
+    * Common system directories
+      * /boot
+      * /bin
+      * /sbin
+      * /usr
+      * /lib
+      * /dev
+      * /etc
+      * /home
+      * /opt
+      * /proc
+      * /root
+      * /tmp
+      * /var
+    * File system navigation
+      * Absolute Path
+      * Relative Path
+    * Environment Variables
+    * vi/vim
 5. File and Directory Permissions
 6. Mobile OS's
 7. File Systems
