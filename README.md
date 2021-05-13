@@ -21,8 +21,9 @@ utilize unless stated otherwise. If any of the linked resources are no longer
 free and not marked as paid, please let us know ASAP or push up the correction.
 
 ## Table of Contents
-[Basic Math](Basic_Math.md)\
-[Computer Internals](Computer_Internals.md)\
-[Networking & Protocols](Networking_&_Protocols.md)\
-[Operating System](Operating_Systems.md)\
-[Programming Fundamentals](Programming_Fundamentals.md)
+[Basic Math](Foundations/Basic%20Math/Requirements.md)\
+[Computer Internals](Foundations/Computer%20Internals/Requirements.md)\
+[Networking & Protocols](Foundations/Networking%20and%20Protocols/Requirements.md)\
+[Operating System](Foundations/Operating%20Systems/Requirements.md)\
+[Programming Fundamentals](Foundations/Programming%20Fundamentals/Requirements.md)
+[Intro to Programming](Intro%20to%20Programming/Requirements.md)

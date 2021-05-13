@@ -1,4 +1,4 @@
-## Networking and Protocols
+# Networking and Protocols
 1. Fundamentals of Networking
   * TCP/IP
   * Protocols
