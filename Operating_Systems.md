@@ -88,6 +88,9 @@
   * cmdlets
   * DOS Commands
     * `cls`
+    * `ping`
+    * `tracert`
+    * `netstat`
     * `help`
     * `more`
     * `|` (pipe)
@@ -152,6 +155,10 @@
     * `cat`
     * `cd`
     * `echo`
+    * `ifconfig`
+    * `ping`
+    * `tracert`
+    * `netstat`
   * File and Directory commands
     * `touch`
     * `mkdir`
