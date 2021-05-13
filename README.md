@@ -26,3 +26,4 @@ free and not marked as paid, please let us know ASAP or push up the correction.
 [Networking & Protocols](Foundations/Networking%20and%20Protocols/Requirements.md)\
 [Operating System](Foundations/Operating%20Systems/Requirements.md)\
 [Programming Fundamentals](Foundations/Programming%20Fundamentals/Requirements.md)
+[Intro to Programming](Intro%20to%20Programming/Requirements.md)
