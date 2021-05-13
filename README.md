@@ -21,7 +21,7 @@ utilize unless stated otherwise. If any of the linked resources are no longer
 free and not marked as paid, please let us know ASAP or push up the correction.
 
 ## Table of Contents
-[Basic Math](Basic_Math.md)\
+[Basic Math](Basic%20Math/Requirements.md)\
 [Computer Internals](Computer_Internals.md)\
 [Networking & Protocols](Networking_&_Protocols.md)\
 [Operating System](Operating_Systems.md)\
