@@ -1,6 +1,7 @@
 # Operating Systems
 
-1. OS Basics
+
+## 1. OS Basics
   * Windows
   * Unix
   * Linux
