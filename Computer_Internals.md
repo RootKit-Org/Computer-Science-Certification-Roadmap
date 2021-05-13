@@ -8,16 +8,16 @@
   * Linus Torvalds
 
 1. Standards and Formats
-   * Institute of Electrical and Electronics Engineers (IEEE)
-   * Organization for Standardization (ISO)
-   * Executable
-   * Audio
-   * Images
-   * Video
-   * Lossy Compression
-   * Lossless Compression
-   * File Signatures
-   * Order of Magnitude
+  * Institute of Electrical and Electronics Engineers (IEEE)
+  * Organization for Standardization (ISO)
+  * Executable
+  * Audio
+  * Images
+  * Video
+  * Lossy Compression
+  * Lossless Compression
+  * File Signatures
+  * Order of Magnitude
 
 2. Digital Logic
   * Logic Gates

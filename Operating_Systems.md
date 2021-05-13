@@ -85,94 +85,95 @@
   * Present Working Directory
   * Environment Variables
   * cmdlets
-  * cls
-  * help
-  * more
-  * | (pipe)
-  * cd
-  * path
-  * dir
-  * attrib
-  * date
-  * time
-  * ver
-  * title
-  * exit
-  * mkdir
-  * rmdir
-  * copy
-  * xcopy
-  * move
-  * ren
-  * type
-  * find
-  * del
-  * doskey
-  * ipconfig
-  * >
-  * >>
-  * tree
-  * icacls
-  * net accounts
-  * net user
-  * net localgroup
-  * runas
-  * tasklist
-  * taskkill
-  * Get-Host
-  * Get-Help
-  * Get-Childitem
-  * Get-Verb
-  * Get-Alias
-  * Set-Location
-  * Get-Location
-  * Copy-Item
-  * Clear-Host
-  * Rename-Item
-  * Remove-Item
-
-4. UNIX
+  * DOS Commands
+    * `cls`
+    * `help`
+    * `more`
+    * `|` (pipe)
+    * `cd`
+    * `path`
+    * `dir`
+    * `attrib`
+    * `date`
+    * `time`
+    * `ver`
+    * `title`
+    * `exit`
+    * `mkdir`
+    * `rmdir`
+    * `copy`
+    * `xcopy`
+    * `move`
+    * `ren`
+    * `type`
+    * `find`
+    * `del`
+    * `doskey`
+    * `ipconfig`
+    * `>`
+    * `>>`
+    * `tree`
+    * `icacls`
+    * `net accounts`
+    * `net user`
+    * `net localgroup`
+    * `runas`
+    * `tasklist`
+    * `taskkill`
+  * PowerShell Commands
+    * `Get-Host`
+    * `Get-Help`
+    * `Get-Childitem`
+    * `Get-Verb`
+    * `Get-Alias`
+    * `Set-Location`
+    * `Get-Location`
+    * `Copy-Item`
+    * `Clear-Host`
+    * `Rename-Item`
+    * `Remove-Item`
+## 4. UNIX
   * Kernel architecture
   * Unix Shells
   * Shell command structure
   * Manual pages (Man pages)
   * Bash commands
-    * clear
-    * pwd
-    * uname
-    * date
-    * tree
-    * exit
-    * ls
-    * less
-    * more
-    * head
-    * cat
-    * cd
-    * echo
+    * `clear`
+    * `pwd`
+    * `uname`
+    * `date`
+    * `tree`
+    * `exit`
+    * `ls`
+    * `less`
+    * `more`
+    * `head`
+    * `cat`
+    * `cd`
+    * `echo`
   * File and Directory commands
-    * touch
-    * mkdir
-    * cp
-    * mv
-    * ln
-    * grep
-    * find
-    * which
-    * file
+    * `touch`
+    * `mkdir`
+    * `cp`
+    * `mv`
+    * `ln`
+    * `grep`
+    * `find`
+    * `which`
+    * `file`
   * Process Related commands
-    * ps
-    * kill
-    * pkill
+    * `ps`
+    * `kill`
+    * `pkill`
   * Helpful Commands
-    * strings
-    * history
-    * script
-    * su
-    * sudo
-    * gzip
-    * gunzip
-    * tar
+    * `strings`
+    * `history`
+    * `script`
+    * `su`
+    * `sudo`
+    * `gzip`
+    * `gunzip`
+    * `tar`
   * Common system directories
     * /boot
     * /bin
@@ -192,11 +193,10 @@
     * Relative Path
   * Environment Variables
   * vi/vim
-
 5. File and Directory Permissions
   * Unix permission syntax
-  * chmod
-  * chown
+  * `chmod`
+  * `chown`
 
 6. Mobile OS's
   * Android
