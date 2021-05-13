@@ -1,3 +1,5 @@
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+
 # General Cyber Developer (GenCyber) Framework Requirements
 Welcome to RootKit's General Cyber Developer Framework! This framework displays
 everything you need to know in order to obtain our GenCyber certificate! The
