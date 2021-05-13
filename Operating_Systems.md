@@ -1,6 +1,5 @@
 # Operating Systems
 
-[[tol]]
 
 ## 1. OS Basics
   * Windows
