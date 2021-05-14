@@ -46,7 +46,15 @@ free and not marked as paid, please let us know ASAP or push up the correction.
 [Amigoscode Youtube](https://www.youtube.com/user/djdjalas)\
 [Tech With Tim Youtube](https://www.youtube.com/c/TechWithTim/featured)\
 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)\
-[Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+[Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)\
+[TheTrevTutor](https://www.youtube.com/channel/UCGYSfZbPp3BiAFs531PBY7g)\
+[TED-Ed](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)\
+[Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)\
+[Steve Mould](https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A)\
+[CertBros](https://www.youtube.com/channel/UCZg4PvX48mgXQVySgIulX-Q)\
+[RealPars](https://www.youtube.com/channel/UCUKKQwBQZczpYzETkZNxi-w)\
+[Simply Explained](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ)\
+[CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
 
 #### Mix
 [Udemy](https://www.udemy.com/courses/development/)\
