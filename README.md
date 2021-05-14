@@ -49,9 +49,9 @@ free and not marked as paid, please let us know ASAP or push up the correction.
 [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 
 #### Mix
-[Udemy](https://www.udemy.com/courses/development/)
+[Udemy](https://www.udemy.com/courses/development/)\
 [Codecademy](https://www.codecademy.com/)
 
 #### Paid
-[RootKit](https://rootkit.education/)
+[RootKit](https://rootkit.education/)\
 [Lynda](https://www.lynda.com/)
