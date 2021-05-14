@@ -1,15 +1,6 @@
 # Computer Internals and Architecture
 
-1. History
-  * Alan Turing
-  * John von Neumann
-  * Steve Jobs
-  * Bill Gates
-  * Linus Torvalds
-
 1. Standards and Formats
-  * Institute of Electrical and Electronics Engineers (IEEE)
-  * Organization for Standardization (ISO)
   * Executable
   * Audio
   * Images
