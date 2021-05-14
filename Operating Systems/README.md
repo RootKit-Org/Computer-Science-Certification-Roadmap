@@ -136,6 +136,7 @@
     * `Clear-Host`
     * `Rename-Item`
     * `Remove-Item`
+
 ## 4. UNIX
   * Kernel architecture
   * Unix Shells
@@ -201,6 +202,7 @@
     * Relative Path
   * Environment Variables
   * vi/vim
+
 5. File and Directory Permissions
   * Unix permission syntax
   * `chmod`
