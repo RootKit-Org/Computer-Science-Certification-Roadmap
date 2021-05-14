@@ -1,6 +1,6 @@
 # Computer Internals and Architecture
 
-1. Standards and Formats
+### 1. Standards and Formats
   * Executable
   * Audio
   * Images
@@ -10,7 +10,7 @@
   * File Signatures
   * Order of Magnitude
 
-2. Digital Logic
+### 2. Digital Logic
   * Logic Gates
   * AND Gates
   * OR Gates
@@ -21,7 +21,7 @@
   * OR Gates
   * Logical Connectives
 
-3. Base Components
+### 3. Base Components
   * I/O
   * CPU
   * Memory
@@ -41,7 +41,7 @@
   * Little Endian
   * Big Endian
 
-5. Multiprocessing
+### 5. Multiprocessing
   * Flynn’s Taxonomy
   * Single Instruction, Single Data (SISD)
   * Single Instruction, Multiple Data (SIMD)
@@ -54,7 +54,7 @@
   * Million Instructions Per Second (MIPS)
   * Standard Performance Evaluation Corporation (SPEC)
 
-6. Input/Output (I/O) Architecture
+### 6. Input/Output (I/O) Architecture
   * Bus
   * Address Line
   * Data Line
@@ -90,7 +90,7 @@
   * Faults
   * Aborts
 
-7. Memory Architecture
+### 7. Memory Architecture
   * Volatile
   * Non-Volatile
   * CPU Registers
@@ -118,7 +118,7 @@
   * Throughput
   * Buffering
 
-8. Wireless and Mobile Technologies
+### 8. Wireless and Mobile Technologies
   * WI-FI (b/a/g/4/5/6/6E)
   * Cellular network
   * Bluetooth
