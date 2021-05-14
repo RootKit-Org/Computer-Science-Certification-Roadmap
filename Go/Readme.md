@@ -1,4 +1,6 @@
-1. Basic Operators
+# GoLang
+
+### 1. Basic Operators
   * \+
   * \-
   * \*
@@ -18,7 +20,7 @@
   * ^=
   * |=
 
-2. Conditions
+### 2. Conditions
   * ==
   * !=
   * \>
@@ -26,7 +28,7 @@
   * \>=
   * <=
 
-3. Data Types
+### 3. Data Types
   * String
   * Boolean
   * Int
@@ -47,7 +49,7 @@
   * Complex64
   * Complex128
 
-4. Strings
+### 4. Strings
   * \\'
   * \\"
   * \\\
@@ -64,7 +66,7 @@
   * Fscanf
   * Scanf
 
-5. List
+### 5. List
   * `New()`
   * `Init()`
   * `Back()`
@@ -80,22 +82,22 @@
   * `PushFrontList()`
   * `Remove()`
 
-6. Array
+### 6. Array
   * `Len()`
 
-7. Slice
+### 7. Slice
   * `Len()`
   * `cap()`
   * `copy()`
   * `make()`
   * `append()` 
 
-8. Structs
+### 8. Structs
   * Attributes
   * Methods
   * Composition
 
-9. Statements
+### 9. Statements
   * import
   * package
   * if
@@ -110,7 +112,7 @@
   * func
   * const
 
-10. Basic Functions
+### 10. Basic Functions
   * `print()`
   * `println()`
   * `type()`
@@ -120,7 +122,7 @@
   * `close()`
   * `recover()`
 
-11. Tasks
+### 11. Tasks
   * Create variables
   * Cast variables
   * Utilize Nested loops

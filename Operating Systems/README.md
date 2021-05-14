@@ -1,6 +1,5 @@
 # Operating Systems
 
-
 ### 1. OS Basics
   * Windows
   * Unix
@@ -33,7 +32,7 @@
   * Logging
   * Backups
 
-### 1. Boot Process
+### 2. Boot Process
   * Basic Input/Output System (BIOS)
   * Unified Extensible Firmware Interface (UEFI)
   * Master Boot Record (MBR)
@@ -49,7 +48,7 @@
   * Rootkit
   * Bootkit
 
-### 2. Windows
+### 3. Windows
   * Built-In Accounts
   * Local Accounts
   * Domain Accounts
@@ -77,7 +76,7 @@
   * Setup Log
   * System Log
 
-### 3. DOS/PowerShell
+### 4. DOS/PowerShell
   * Command Prompt
   * PowerShell (PS)
   * PS Integrated Scripting Environment (ISE)
@@ -136,7 +135,8 @@
     * `Clear-Host`
     * `Rename-Item`
     * `Remove-Item`
-### 4. UNIX
+
+### 5. UNIX
   * Kernel architecture
   * Unix Shells
   * Shell command structure
@@ -201,12 +201,13 @@
     * Relative Path
   * Environment Variables
   * vi/vim
-### 5. File and Directory Permissions
+
+### 6. File and Directory Permissions
   * Unix permission syntax
   * `chmod`
   * `chown`
 
-### 6. Mobile OS's
+### 7. Mobile OS's
   * Android
     * Rooting
     * ART
@@ -214,20 +215,20 @@
   * iOS
     * Jailbreaking
 
-### 7. File Systems
+### 8. File Systems
   * Physical layer
   * File system layer
   * Data layer
   * Metadata layer
   * Filename layer
 
-### 8. OS Processes
+### 9. OS Processes
   * Linux kernel design
   * Windows kernel design
   * Android kernel design
   * iOS kernel design
 
-### 9. Process Internals
+### 10. Process Internals
   * Process parts
   * Kernel components
     * Schedule dispatcher
@@ -239,12 +240,12 @@
     * Race Condition
     * Deadlock condition
 
-### 10. Interrupts, Exceptions, and Trap Handling
+### 11. Interrupts, Exceptions, and Trap Handling
   * Interrupts
   * Exceptions
   * Trap handling
 
-### 11. Device Drivers
+### 12. Device Drivers
   * Loadable-kernel modules (LKM)
   * Device drivers
   * File system drivers
@@ -255,7 +256,7 @@
     * Block device
     * Character device
 
-### 12. System Virtualization
+### 13. System Virtualization
   * Virtual machine monitor  (VMM)
   * Virtual machine  (VM)
   * Types of Virtual Machine Monitors

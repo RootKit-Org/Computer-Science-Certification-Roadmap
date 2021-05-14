@@ -24,9 +24,13 @@ you have any questions, please feel free to reach out to us.
   * Symmetric
   * Asymmetric
   * Transitive
+
 ### 2. Sum Rule
+
 ### 3. Product Rule
+
 ### 4. Pigeonhole Principle
+
 ### 5. Basic Logic
   * Proposition
   * Compound Proposition
@@ -56,12 +60,15 @@ you have any questions, please feel free to reach out to us.
   * Fallacy
   * Converse Error
   * Inverse Error
+
 ### 6. Proof Techniques
   * Direct Proof
   * Proof by Contradiction
+
 ### 7. Logical Fallacies and Biases
   * Biases in computer science
-### 1. Computer Data
+
+### 8. Computer Data
   * Integer
   * Floating Point
   * Base 10

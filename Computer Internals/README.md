@@ -41,7 +41,7 @@
   * Little Endian
   * Big Endian
 
-### 5. Multiprocessing
+### 4. Multiprocessing
   * Flynn’s Taxonomy
   * Single Instruction, Single Data (SISD)
   * Single Instruction, Multiple Data (SIMD)
@@ -54,7 +54,7 @@
   * Million Instructions Per Second (MIPS)
   * Standard Performance Evaluation Corporation (SPEC)
 
-### 6. Input/Output (I/O) Architecture
+### 5. Input/Output (I/O) Architecture
   * Bus
   * Address Line
   * Data Line
@@ -90,7 +90,7 @@
   * Faults
   * Aborts
 
-### 7. Memory Architecture
+### 6. Memory Architecture
   * Volatile
   * Non-Volatile
   * CPU Registers
@@ -118,7 +118,7 @@
   * Throughput
   * Buffering
 
-### 8. Wireless and Mobile Technologies
+### 7. Wireless and Mobile Technologies
   * WI-FI (b/a/g/4/5/6/6E)
   * Cellular network
   * Bluetooth
