@@ -1,6 +1,6 @@
 # Python 3
 
-1. Basic Operators
+### 1. Basic Operators
   * \+
   * \-
   * \*
@@ -15,7 +15,7 @@
   * /=
   * !
 
-1. Conditions
+### 1. Conditions
   * ==
   * !=
   * \>
@@ -23,7 +23,7 @@
   * \>=
   * \<=
 
-2. Data Types
+### 2. Data Types
   * String
   * Integer
   * Float
@@ -36,7 +36,7 @@
   * Boolean
   * Bytes
 
-3. Strings
+### 3. Strings
   * \\'
   * \\"
   * \\\
@@ -50,13 +50,13 @@
   * Slicing
   * .format()
 
-4. List
+### 4. List
   * .append()
   * .pop()
   * .remove()
   * .clear()
 
-4. Statements
+### 4. Statements
   * import
   * if
   * elif
@@ -80,7 +80,7 @@
   * class
   * global
 
-5. Basic Functions
+### ### 5. Basic Functions
   * len()
   * type()
   * abs()
@@ -131,7 +131,7 @@
   * zip()
   * \_\_main__()
 
-5. Classes
+### 5. Classes
  * class
  * Inheritance
  * Multiple Inheritance
@@ -146,7 +146,7 @@
  * \_\_next__(self)
 
 
-6. Tasks
+### 6. Tasks
   * Create variables
   * Cast variables
   * Utilize Nested loops
