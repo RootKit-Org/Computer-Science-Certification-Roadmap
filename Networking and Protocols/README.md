@@ -1,5 +1,6 @@
 # Networking and Protocols
-1. Fundamentals of Networking
+
+### 1. Fundamentals of Networking
   * TCP/IP
   * Protocols
   * Network Adapter
@@ -17,7 +18,7 @@
     * Hybrid
     * Point-to-multipoint
 
-2. Network Cables and Transmission
+### 2. Network Cables and Transmission
   * Network cables
     * coaxial
     * twisted-pair
@@ -52,7 +53,7 @@
   * IEEE 802.3
   * IEEE 802.11
 
-3. Digital / Telecommunications Convergence
+### 3. Digital / Telecommunications Convergence
   * Transoceanic Cable
   * Digital Signal 1
   * E-carrier
@@ -69,20 +70,20 @@
   * Very Small Aperture Terminal (VSAT)
   * TCP/IP Protocol Suite
 
-4. The OSI and TCP/IP Model
+### 4. The OSI and TCP/IP Model
   * International Organization for Standardization (ISO)
   * ISO Model
   * Protocol Data Unit (PDU)
   * Application Programming Interfaces
 
-5. Introduction to Network Devices
+### 5. Introduction to Network Devices
   * Network Interface Card (NIC)
   * Repeaters
   * Hubs
   * Switches
   * Routers
 
-6. Addressing
+### 6. Addressing
   * Unicast
   * Multicast
   * Broadcast
@@ -119,17 +120,17 @@
   * Tunneling
   * Neighbor Discovery Protocol (NDP)
 
-8. Internet Control Message Protocol (ICMP)
+### 8. Internet Control Message Protocol (ICMP)
   * Internet Control Message Protocol (ICMP)
   * ICMPv6
 
-9. Transport Layer Protocols
+### 9. Transport Layer Protocols
   * Transmission Control Protocol (TCP)
   * Three-way handshake
   * TCP flags
   * User Datagram Protocol (UDP)
 
-10. Application Layer Protocols
+### 10. Application Layer Protocols
   * Ports
   * Well-Known Ports
   * Registered Ports
@@ -168,11 +169,11 @@
   * Secure Shell (SSH)
   * Diffie-Hellman key exchange
   * Lightweight Directory Access Protocol (LDAP)
-11. Specialty Networks
+### 11. Specialty Networks
   * Supervisory Control and Data Acquisition (SCADA)
   * Virtual Local Area Network (VLAN)
   * Virtual Private Network (VPN)
-12. Cloud Computing
+### 12. Cloud Computing
   * Cloud
   * Amazon Web Services (AWS)
   * Azure
@@ -186,10 +187,10 @@
   * Software as a Service (SaaS)
   * Platform as a Service (PaaS)
   * Infrastructure as a Service (IaaS)
-13. Information and Data Security
+### 13. Information and Data Security
   * CIA Triad
   * Information Assurance (IA)
-14. Network Security
+### 14. Network Security
   * Network security
   * Network Threats
   * Uninterruptible power supply (UPS)
