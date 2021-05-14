@@ -1,4 +1,4 @@
-# Python
+# Python 3
 
 1. Basic Operators
   * \+
