@@ -48,13 +48,13 @@
   * \xhhh
   * Subscripting (Indexing)
   * Slicing
-  * .format()
+  * `.format()`
 
 4. List
-  * .append()
-  * .pop()
-  * .remove()
-  * .clear()
+  * `.append()`
+  * `.pop()`
+  * `.remove()`
+  * `.clear()`
 
 4. Statements
   * import
@@ -81,55 +81,53 @@
   * global
 
 5. Basic Functions
-  * len()
-  * type()
-  * abs()
-  * all()
-  * any()
-  * ascii()
-  * bin()
-  * bool()
-  * bytes()
-  * complex()
-  * dict()
-  * dir()
-  * enumerate()
-  * eval()
-  * exec()
-  * filter()
-  * float()
-  * format()
-  * getattr()
-  * globals()
-  * hasattr()
-  * hash()
-  * help()
-  * hex()
-  * input()
-  * int()
-  * isinstance()
-  * issubclass()
-  * len()
-  * list()
-  * locals()
-  * max()
-  * min()
-  * next()
-  * open()
-  * pow()
-  * print()
-  * range()
-  * round()
-  * set()
-  * setattr()
-  * super()
-  * sorted()
-  * str()
-  * sum()
-  * tuple()
-  * type()
-  * zip()
-  * \_\_main__()
+  * `len()`
+  * `type()`
+  * `abs()`
+  * `all()`
+  * `any()`
+  * `ascii()`
+  * `bin()`
+  * `bool()`
+  * `bytes()`
+  * `complex()`
+  * `dict()`
+  * `dir()`
+  * `enumerate()`
+  * `eval()`
+  * `exec()`
+  * `filter()`
+  * `float()`
+  * `format()`
+  * `getattr()`
+  * `globals()`
+  * `hasattr()`
+  * `hash()`
+  * `help()`
+  * `hex()`
+  * `input()`
+  * `int()`
+  * `isinstance()`
+  * `issubclass()`
+  * `list()`
+  * `locals()`
+  * `max()`
+  * `min()`
+  * `next()`
+  * `open()`
+  * `pow()`
+  * `print()`
+  * `range()`
+  * `round()`
+  * `set()`
+  * `setattr()`
+  * `super()`
+  * `sorted()`
+  * `str()`
+  * `sum()`
+  * `tuple()`
+  * `zip()`
+  * `\_\_main__()`
 
 5. Classes
  * class
@@ -140,10 +138,10 @@
  * Methods
  * Self
  * Instance Object
- * \_\_init__(self)
- * \_\_str__(self)
- * \_\_iter__(self)
- * \_\_next__(self)
+ * `\_\_init__(self)`
+ * `\_\_str__(self)`
+ * `\_\_iter__(self)`
+ * `\_\_next__(self)`
 
 
 6. Tasks
