@@ -1,10 +1,10 @@
 # Programming Fundamentals
 
-1. Development Life Cycle
+### 1. Development Life Cycle
   * Software Development Life Cycle (SDLC)
   * Agile Development
 
-2. Programming concepts
+### 2. Programming concepts
   * Pseudocode
   * Flowcharts
   * Sequential action
@@ -12,7 +12,7 @@
   * Loops
   * Flow control
 
-3. Programming Methodologies
+### 3. Programming Methodologies
   * Unstructured
   * Procedural
   * Object-oriented
@@ -20,7 +20,7 @@
     * Inheritance
     * Polymorphism
 
-4. Language Generations
+### 4. Language Generations
   * First Generation
   * Second Generation
   * Third Generation
