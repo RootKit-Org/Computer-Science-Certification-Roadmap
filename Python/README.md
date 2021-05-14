@@ -1,68 +1,159 @@
-# Intro to Programming
+# Python
 
-1. History of programming and computers
-2. Programming language types
-3. Setup a dev environment
-  * PIP
-4. Break big problem into many small problems
-5. Spaghetti code vs Structured code
-6. Variables and data types
-  * Basic data types
-    * What they store
-    * Size
-  * Storing data in variables
-  * Retrieving data from variables
-  * concept of constant
-  * Scope of variables
-    * Global variables
-    * Passing variables
-    * Restricting the scope of variables
-7. Modules
-8. Manipulating data
-  * Manipulating numbers with arithmetic
-    * Order of operations
-    * Built in math functions
-  * Manipulating strings
-  * Intro to regex
-  * Comparison operators
-  * Boolean operators
-  * Data type conversion
-  * Variable reference
-9. Flow control by branching
-  * IF statement
-  * IF-ELSE
-  * ELSE-IF
-  * Complex IF conditions
-  * SELECT CASE
-10. Looping
-  * FOR-LOOP
-  * WHILE
-  * DO_WHILE
-  * Nested loops
-  * Terminating a loop
-11. Functions
-12. Recursion
-13. Procedural programming in Python
-14. OOP Concept and design principles
-15. Classes
-  * Methods
-  * Attributes
-  * Namespace
-  * Inheritance
-  * Objects
-  * Polymorphism
-16. Object Oriented Programming in Python
-17. Reading and Writing to files
-  * Storing text data
-    * Create text files
-    * Reading data
-    * Writing text
-  * Storing fixed size data in Random-Access Files
-18. Comments
-19. Data structures
-  * Array
+1. Basic Operators
+  * +
+  * -
+  * *
+  * **
+  * /
+  * //
+  * %
+  * =
+  * +=
+  * -=
+  * *=
+  * /=
+  * !
+
+1. Conditions
+  * ==
+  * !=
+  * >
+  * <
+  * >=
+  * <=
+
+2. Data Types
+  * String
+  * Integer
+  * Float
+  * Complex
   * List
-  * Tuples
-  * Sets
-  * Dictionaries
+  * Tuple
+  * Range
+  * Dictionary
+  * Set
+  * Boolean
+  * Bytes
 
+3. Strings
+  * \'
+  * \"
+  * \\
+  * \n
+  * \r
+  * \t
+  * \b
+  * \ooo
+  * \xhhh
+  * Subscripting (Indexing)
+  * Slicing
+  * .format()
+
+4. List
+  * .append()
+  * .pop()
+  * .remove()
+  * .clear()
+
+4. Statements
+  * import
+  * if
+  * elif
+  * else
+  * while
+  * for
+  * try
+  * except
+  * finally
+  * raise
+  * pass
+  * break
+  * continue
+  * return
+  * lambda
+  * True
+  * False
+  * as
+  * in
+  * def
+  * class
+  * global
+
+5. Basic Functions
+  * len()
+  * type()
+  * abs()
+  * all()
+  * any()
+  * ascii()
+  * bin()
+  * bool()
+  * bytes()
+  * complex()
+  * dict()
+  * dir()
+  * enumerate()
+  * eval()
+  * exec()
+  * filter()
+  * float()
+  * format()
+  * getattr()
+  * globals()
+  * hasattr()
+  * hash()
+  * help()
+  * hex()
+  * input()
+  * int()
+  * isinstance()
+  * issubclass()
+  * len()
+  * list()
+  * locals()
+  * max()
+  * min()
+  * next()
+  * open()
+  * pow()
+  * print()
+  * range()
+  * round()
+  * set()
+  * setattr()
+  * super()
+  * sorted()
+  * str()
+  * sum()
+  * tuple()
+  * type()
+  * zip()
+  * __main__()
+
+5. Classes
+ * class
+ * Inheritance
+ * Multiple Inheritance
+ * Private Variables
+ * properties
+ * Methods
+ * Self
+ * Instance Object
+ * __init__(self)
+ * __str__(self)
+ * __iter__(self)
+ * __next__(self)
+
+
+6. Tasks
+  * Create variables
+  * Cast variables
+  * Utilize Nested loops
+  * Import modules
+  * Read and write to a file
+  * Create Functions
+  * Function recursion
+  * Create a class
+  * Create a class using inheritance
+  * Create object
