@@ -127,7 +127,7 @@
   * `sum()`
   * `tuple()`
   * `zip()`
-  * `\_\_main__()`
+  * `__main__()`
 
 5. Classes
  * class
@@ -138,10 +138,10 @@
  * Methods
  * Self
  * Instance Object
- * `\_\_init__(self)`
- * `\_\_str__(self)`
- * `\_\_iter__(self)`
- * `\_\_next__(self)`
+ * `__init__(self)`
+ * `__str__(self)`
+ * `__iter__(self)`
+ * `__next__(self)`
 
 
 6. Tasks
