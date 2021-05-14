@@ -38,7 +38,7 @@ free and not marked as paid, please let us know ASAP or push up the correction.
 [freeCodeCamp](https://www.freecodecamp.org/)\
 [freeCodeCamp Youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
 [thenewboston Youtube](https://www.youtube.com/user/thenewboston)\
-[Codecourse Youtube][https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g]\
+[Codecourse Youtube](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)\
 [Linus Tech Tips Youtube](https://www.youtube.com/user/LinusTechTips)\
 [Techquickie Youtube](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)\
 [Computerphile Youtube](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)\
