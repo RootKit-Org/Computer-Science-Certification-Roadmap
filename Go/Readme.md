@@ -91,6 +91,9 @@
   * `append()` 
 
 8. Structs
+  * Attributes
+  * Methods
+  * Composition
 
 9. Statements
   * import
@@ -107,7 +110,17 @@
   * func
   * const
 
-10. Tasks
+10. Basic Functions
+  * `print()`
+  * `println()`
+  * `type()`
+  * `error()`
+  * `new()`
+  * `panic()`
+  * `close()`
+  * `recover()`
+
+11. Tasks
   * Create variables
   * Cast variables
   * Utilize Nested loops
