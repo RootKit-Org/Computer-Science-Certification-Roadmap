@@ -34,18 +34,18 @@ utilize unless stated otherwise. If any of the linked resources are no longer
 free and not marked as paid, please let us know ASAP or push up the correction.
 
 #### Free
-[W3 Schools](https://www.w3schools.com/)
-[freeCodeCamp](https://www.freecodecamp.org/)
-[freeCodeCamp Youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-[thenewboston Youtube](https://www.youtube.com/user/thenewboston)
-[Codecourse Youtube][https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g]
-[Linus Tech Tips Youtube](https://www.youtube.com/user/LinusTechTips)
-[Techquickie Youtube](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
-[Computerphile Youtube](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
-[Numberphile Youtube](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
-[Amigoscode Youtube][https://www.youtube.com/user/djdjalas]
-[Tech With Tim Youtube][https://www.youtube.com/c/TechWithTim/featured]
-[Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+[W3 Schools](https://www.w3schools.com/)\
+[freeCodeCamp](https://www.freecodecamp.org/)\
+[freeCodeCamp Youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
+[thenewboston Youtube](https://www.youtube.com/user/thenewboston)\
+[Codecourse Youtube][https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g]\
+[Linus Tech Tips Youtube](https://www.youtube.com/user/LinusTechTips)\
+[Techquickie Youtube](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)\
+[Computerphile Youtube](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)\
+[Numberphile Youtube](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)\
+[Amigoscode Youtube](https://www.youtube.com/user/djdjalas)\
+[Tech With Tim Youtube](https://www.youtube.com/c/TechWithTim/featured)\
+[Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)\
 [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 
 #### Mix
