@@ -57,3 +57,41 @@
   * if
   * else if
   * else
+  * while
+  * for
+  * return
+  * continue
+  * private
+  * public
+  * static
+  * abstract
+  * break
+  * case
+  * catch
+  * instanceof
+  * new
+  * protected
+  * this
+  * try
+
+### 7. Classes
+ * class
+ * Inheritance
+ * Multiple Inheritance
+ * Private Variables
+ * properties
+ * Methods
+ * Self
+ * Instance Object
+
+### 8. Tasks
+  * Create variables
+  * Cast variables
+  * Utilize Nested loops
+  * Import modules
+  * Read and write to a file
+  * Create Functions
+  * Function recursion
+  * Create a class
+  * Create a class using inheritance
+  * Create object
