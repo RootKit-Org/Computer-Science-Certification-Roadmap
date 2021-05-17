@@ -34,18 +34,20 @@ progress so feel free to contribute to it! All resources list are 100% FREE to
 utilize unless stated otherwise. If any of the linked resources are no longer
 free and not marked as paid, please let us know ASAP or push up the correction.
 
-#### Free
+#### Free Websites
 [W3 Schools](https://www.w3schools.com/)\
-[freeCodeCamp](https://www.freecodecamp.org/)\
-[freeCodeCamp Youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
-[thenewboston Youtube](https://www.youtube.com/user/thenewboston)\
-[Codecourse Youtube](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)\
-[Linus Tech Tips Youtube](https://www.youtube.com/user/LinusTechTips)\
-[Techquickie Youtube](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)\
-[Computerphile Youtube](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)\
-[Numberphile Youtube](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)\
-[Amigoscode Youtube](https://www.youtube.com/user/djdjalas)\
-[Tech With Tim Youtube](https://www.youtube.com/c/TechWithTim/featured)\
+[freeCodeCamp](https://www.freecodecamp.org/)
+
+#### Youtube Channels
+[freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
+[thenewboston](https://www.youtube.com/user/thenewboston)\
+[Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)\
+[Linus Tech Tips](https://www.youtube.com/user/LinusTechTips)\
+[Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)\
+[Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)\
+[Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)\
+[Amigoscode](https://www.youtube.com/user/djdjalas)\
+[Tech With Tim](https://www.youtube.com/c/TechWithTim/featured)\
 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)\
 [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)\
 [TheTrevTutor](https://www.youtube.com/channel/UCGYSfZbPp3BiAFs531PBY7g)\
@@ -57,7 +59,7 @@ free and not marked as paid, please let us know ASAP or push up the correction.
 [Simply Explained](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ)\
 [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
 
-#### Mix
+#### Mix (free and paid content)
 [Udemy](https://www.udemy.com/courses/development/)\
 [Codecademy](https://www.codecademy.com/)
 
