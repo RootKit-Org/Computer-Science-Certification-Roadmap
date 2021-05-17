@@ -3,8 +3,8 @@
 # General Cyber Developer (GenCyber) Framework Requirements
 Welcome to RootKit's General Cyber Developer Framework! This framework displays
 everything you need to know in order to obtain our GenCyber certificate! The
-certificate is obtained after taking our GenCyber Exam! Our
-GenCyber certificate is a **_COMPLETE_** replacement for a Computer Science
+certificate is obtained after taking our GenCyber Exam! Acquiring our
+GenCyber certificate is a **_COMPLETE_** alternative to receiving Computer Science
 degree!
 
 ## Table of Contents
@@ -19,7 +19,6 @@ Items are listed in the recommended order of completion.
 [Git](Git)\
 [Python](Python)\
 [Java](Java)\
-[Go](Go)
 
 ### Open Source Education
 We are a non-profit with a goal of making the computer science realm
