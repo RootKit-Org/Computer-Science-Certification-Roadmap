@@ -16,6 +16,7 @@ Items are listed in the recommended order of completion.
 [Networking & Protocols](Networking%20and%20Protocols)\
 [Operating System](Operating%20Systems)\
 [Programming Fundamentals](Programming%20Fundamentals)\
+[Git](Git)\
 [Python](Python)\
 [Java](Java)\
 [Go](Go)
