@@ -103,8 +103,8 @@
 
 ## Selectors
   * .
-  * #
-  * *
+  * \#
+  * \*
   * _element_
   * _element.class_
   * _element,element_
