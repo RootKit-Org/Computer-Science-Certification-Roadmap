@@ -17,8 +17,11 @@ Items are listed in the recommended order of completion.
 [Operating System](Operating%20Systems)\
 [Programming Fundamentals](Programming%20Fundamentals)\
 [Git](Git)\
+[HTML](HTML)\
+[CSS](CSS)\
 [Python](Python)\
 [Java](Java)\
+[Databases](Databases)
 
 ### Open Source Education
 We are a non-profit with a goal of making the computer science realm
