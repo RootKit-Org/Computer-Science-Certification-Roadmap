@@ -155,3 +155,6 @@
   * Create a class
   * Create a class using inheritance
   * Create object
+
+### 10. PEP8
+  * Style manually or utilizing pep8 tool
