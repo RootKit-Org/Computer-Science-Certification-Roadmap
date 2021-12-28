@@ -64,6 +64,7 @@ free and not marked as paid, please let us know ASAP or push up the correction.
 #### Mix (free and paid content)
 [Udemy](https://www.udemy.com/courses/development/)\
 [Codecademy](https://www.codecademy.com/)
+[edX](https://www.edx.org/)
 
 #### Paid
 [RootKit](https://rootkit.education/)\
