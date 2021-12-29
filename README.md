@@ -4,7 +4,7 @@
 Welcome to RootKit's General Cyber Developer Framework! This framework displays
 everything you need to know in order to obtain our GenCyber certificate! The
 certificate is obtained after taking our GenCyber Exam! Acquiring our
-GenCyber certificate is a **_COMPLETE_** alternative to receiving Computer Science
+GenCyber certificate is designed to be a **_COMPLETE_** alternative to receiving Computer Science
 degree!
 
 ## Table of Contents
@@ -17,16 +17,12 @@ Items are listed in the recommended order of completion.
 [Operating System](Operating%20Systems)\
 [Programming Fundamentals](Programming%20Fundamentals)\
 [Git](Git)\
-[HTML](HTML)\
-[CSS](CSS)\
-[Python](Python)\
-[Java](Java)\
 [Databases](Databases)
 
 ### Open Source Education
 We are a non-profit with a goal of making the computer science realm
 accessible to as many people as possible. This is not a joke! If you learn
-everything here and get the GenCyber Certificate you **DO NOT** have to go to
+everything here, two [tier one languages](https://rootkit.education/certifications/), and get the GenCyber Certificate you **DO NOT** have to go to
 college!
 
 ### Resources
