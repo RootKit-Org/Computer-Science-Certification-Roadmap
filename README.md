@@ -4,29 +4,31 @@
 Welcome to RootKit's General Cyber Developer Framework! This framework displays
 everything you need to know in order to obtain our GenCyber certificate! The
 certificate is obtained after taking our GenCyber Exam! Acquiring our
-GenCyber certificate is a **_COMPLETE_** alternative to receiving Computer Science
+GenCyber certificate is designed to be a **_COMPLETE_** alternative to receiving Computer Science
 degree!
 
 ## Table of Contents
 Items are listed in the recommended order of completion.
 
-[History](History)\
-[Basic Math](Basic%20Math)\
-[Computer Internals](Computer%20Internals)\
-[Networking & Protocols](Networking%20and%20Protocols)\
-[Operating System](Operating%20Systems)\
-[Programming Fundamentals](Programming%20Fundamentals)\
-[Git](Git)\
-[HTML](HTML)\
-[CSS](CSS)\
-[Python](Python)\
-[Java](Java)\
-[Databases](Databases)
+[History](https://github.com/RootKit-Org/History)\
+[Basic Math](https://github.com/RootKit-Org/Basic-Math)\
+[Computer Internals](https://github.com/RootKit-Org/Computer-Internals)\
+[Networking & Protocols](https://github.com/RootKit-Org/Networking-and-Protocols)\
+[Operating System](https://github.com/RootKit-Org/Operating-Systems)\
+[Programming Fundamentals](https://github.com/RootKit-Org/Programming-Fundamentals)\
+[Git Fundamentals](https://github.com/RootKit-Org/Git-Fundamentals)\
+[Databases](https://github.com/RootKit-Org/Databases)
+
+### Exam Prerequisites
+* Two [tier one language](https://rootkit.education/certifications/) certificates from RootKit **OR** equivalent knowledge in two programming languages of your choice.
+* An internet connection.
+* A Desktop/Laptop or equivalent device.
+* An understanding of everything in the General Cyber requirements sheet.
 
 ### Open Source Education
 We are a non-profit with a goal of making the computer science realm
 accessible to as many people as possible. This is not a joke! If you learn
-everything here and get the GenCyber Certificate you **DO NOT** have to go to
+everything here, and get the GenCyber Certificate you **DO NOT** have to go to
 college!
 
 ### Resources
@@ -63,7 +65,8 @@ free and not marked as paid, please let us know ASAP or push up the correction.
 
 #### Mix (free and paid content)
 [Udemy](https://www.udemy.com/courses/development/)\
-[Codecademy](https://www.codecademy.com/)
+[Codecademy](https://www.codecademy.com/)\
+[edX](https://www.edx.org/)
 
 #### Paid
 [RootKit](https://rootkit.education/)\
