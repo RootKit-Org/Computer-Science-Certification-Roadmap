@@ -10,14 +10,14 @@ degree!
 ## Table of Contents
 Items are listed in the recommended order of completion.
 
-[History](History)\
-[Basic Math](Basic%20Math)\
-[Computer Internals](Computer%20Internals)\
-[Networking & Protocols](Networking%20and%20Protocols)\
-[Operating System](Operating%20Systems)\
-[Programming Fundamentals](Programming%20Fundamentals)\
-[Git](Git)\
-[Databases](Databases)
+[History](https://github.com/RootKit-Org/History)\
+[Basic Math](https://github.com/RootKit-Org/Basic-Math)\
+[Computer Internals](https://github.com/RootKit-Org/Computer-Internals)\
+[Networking & Protocols](https://github.com/RootKit-Org/Networking-and-Protocols)\
+[Operating System](https://github.com/RootKit-Org/Operating-Systems)\
+[Programming Fundamentals](https://github.com/RootKit-Org/Programming-Fundamentals)\
+[Git Fundamentals](https://github.com/RootKit-Org/Git-Fundamentals)\
+[Databases](https://github.com/RootKit-Org/Databases)
 
 ### Open Source Education
 We are a non-profit with a goal of making the computer science realm
