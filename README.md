@@ -20,7 +20,7 @@ Items are listed in the recommended order of completion.
 [Databases](https://github.com/RootKit-Org/Databases)
 
 ### Exam Prerequisites
-* Two [tier one language](https://rootkit.education/certifications/) certificates from RootKit or equivalent knowledge in two programming languages of your choice.
+* Two [tier one language](https://rootkit.education/certifications/) certificates from RootKit **OR** equivalent knowledge in two programming languages of your choice.
 * An internet connection.
 * A Desktop/Laptop or equivalent device.
 * An understanding of everything in the General Cyber requirements sheet.
