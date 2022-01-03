@@ -19,10 +19,16 @@ Items are listed in the recommended order of completion.
 [Git Fundamentals](https://github.com/RootKit-Org/Git-Fundamentals)\
 [Databases](https://github.com/RootKit-Org/Databases)
 
+### Exam Prerequisites
+* Two [tier one language](https://rootkit.education/certifications/) certificates from RootKit or equivalent knowledge in two programming languages of your choice.
+* An internet connection.
+* A Desktop/Laptop or equivalent device.
+* An understanding of everything in the General Cyber requirements sheet.
+
 ### Open Source Education
 We are a non-profit with a goal of making the computer science realm
 accessible to as many people as possible. This is not a joke! If you learn
-everything here, two [tier one languages](https://rootkit.education/certifications/), and get the GenCyber Certificate you **DO NOT** have to go to
+everything here, and get the GenCyber Certificate you **DO NOT** have to go to
 college!
 
 ### Resources
