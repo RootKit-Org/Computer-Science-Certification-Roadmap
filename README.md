@@ -1,10 +1,10 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-# General Cyber Developer (GenCyber) Framework Requirements
-Welcome to RootKit's General Cyber Developer Framework! This framework displays
-everything you need to know in order to obtain our GenCyber certificate! The
-certificate is obtained after taking our GenCyber Exam! Acquiring our
-GenCyber certificate is designed to be a **_COMPLETE_** alternative to receiving Computer Science
+# Computer Science Certification Requirements
+Welcome to RootKit's Computer Science Certification Requirements! This framework displays
+everything you need to know in order to obtain our Computer Science certificate! The
+certificate is obtained after taking our Cerification Exam! Acquiring our
+Computer Science certificate is designed to be a **_COMPLETE_** alternative to receiving Computer Science
 degree!
 
 ## Table of Contents
