@@ -28,7 +28,7 @@ Items are listed in the recommended order of completion.
 ### Open Source Education
 We are a non-profit with a goal of making the computer science realm
 accessible to as many people as possible. This is not a joke! If you learn
-everything here, and get the GenCyber Certificate you **DO NOT** have to go to
+everything here, and get the CompSci Certificate you **DO NOT** have to go to
 college!
 
 ### Resources
