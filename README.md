@@ -69,5 +69,5 @@ free and not marked as paid, please let us know ASAP or push up the correction.
 [edX](https://www.edx.org/)
 
 #### Paid
-[RootKit](https://rootkit.education/)\
+[RootKit](https://rootkit.org/)\
 [Lynda](https://www.lynda.com/)
